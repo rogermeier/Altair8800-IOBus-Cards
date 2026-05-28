@@ -8,3 +8,5 @@ The backplane power can be configured to be either enabled automatically via the
 - Install Q1, Q2, R1, R2 for automatic power-on control via +5V from Altair Mini.
 - Install jumper JP1 for constant power on.
 - Install switch across JP1 for manual power switch.
+
+NOTE: AS OF THIS COMMIT, THIS DESIGN HAS NOT YET BEEN PROTOTYPED AND TESTED.
