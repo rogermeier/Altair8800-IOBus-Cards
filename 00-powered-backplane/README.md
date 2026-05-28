@@ -1,6 +1,6 @@
-## Sense Switch Input
+## Powered Backplane
 
-![Sense Switch Input](powered-backplane.png)
+![Powered Backplane](powered-backplane.png)
 
 This version if the backplane is derived off of David Hansel's design (https://github.com/dhansel/Altair8800-IOBus/tree/main/00-backplane) but with the difference that instead of getting powere over the bus by the Altair 8800 Mini or similar device, this backplane is locally powered by an external DC supply and generates the +5V and +3.3V supplies locally.
 
