@@ -1,0 +1,18 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
+75.26,-5.365,90.0,top,C1,,,CP_Radial_D6.3mm_P2.50mm,10uF,tht
+95.58,-5.365,90.0,top,C2,,,CP_Radial_D6.3mm_P2.50mm,10uF,tht
+95.58,-14.89,90.0,top,C3,,,CP_Radial_D6.3mm_P2.50mm,10uF,tht
+72.085,-18.74,90.0,top,D1,,,D_DO-41_SOD81_P10.16mm_Horizontal,1N4001,tht
+47.1168,-8.88,180.0,top,DSUB1,,,DSUB-25_Pins_Horizontal_P2.77x2.84mm_EdgePinOffset7.70mm_Housed_MountingHolesOffset9.12mm,5747842-4,tht
+65.1,-10.135,-90.0,top,J1,,,BarrelJack_Horizontal,Barrel_Jack_Switch,tht
+67.64,-18.11,180.0,top,JP1,,,PinHeader_1x02_P2.54mm_Vertical,Jumper_2_Open,tht
+75.26,-11.12,-90.0,top,Q1,,,TO-220-3_Vertical,IRF9510,tht
+61.29,-14.93,-90.0,top,Q2,,,TO-92_Inline,BS170,tht
+57.48,-14.295,180.0,top,R1,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,10k,tht
+57.48,-17.47,180.0,top,R2,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,10k,tht
+85.42,-7.02,0.0,top,REG1,,,Recom R-78E-1.0 DC/DC Converter,R-78E5.0-1.0,smt
+85.42,-16.545,0.0,top,REG2,,,Recom R-78E-1.0 DC/DC Converter,R-78E3.3-1.0,smt
+43.1798,-29.1032,-90.0,top,U1,,,PinSocket_2x13_P2.54mm_Vertical,SFH11-PBPC-D13-ST-BK,tht
+43.1798,-49.474,-90.0,top,U2,,,PinSocket_2x13_P2.54mm_Vertical,SFH11-PBPC-D13-ST-BK,tht
+43.1798,-69.794,-90.0,top,U3,,,PinSocket_2x13_P2.54mm_Vertical,SFH11-PBPC-D13-ST-BK,tht
+43.1798,-90.3934,-90.0,top,U4,,,PinSocket_2x13_P2.54mm_Vertical,SFH11-PBPC-D13-ST-BK,tht
